@@ -14,7 +14,7 @@ git status
 
 git add --all
 
-git remote add https://github.com/anumit-web/Python-Basics-2024.git
+git remote add origin https://github.com/anumit-web/Python-Basics-2024.git
 
 git commit -m "Add files"
 
